@@ -31,13 +31,13 @@ Simply from back end choose any pdf button icon to display pdf button. You can t
 
 short code option is available on pdf plugin. copy that short code and paste it into your page editor where you want.
 
-**[wp___objects___pdf]**
+**[wp__objects__pdf]**
 
 **How to display pdf button on webpage using php function**
 
 copy pdf function and paste it into php file where you want.
 
-**wp___objects___pdf();**
+**wp__objects__pdf();**
 
 ## Screenshots
 1. Choose your button style. You can type simple text or word intead of Image.
