@@ -1,0 +1,59 @@
+#pdf-wrapper
+{
+    background-color:#FFF;
+    border: solid 1px #CCC;
+    height: 300px;
+    border-radius: 8px;
+    margin: 10px 5px;
+    padding: 8px;
+    position: relative;
+}
+.btn-style
+{
+    float: left;
+    padding: 6px;
+    font-weight: bold;
+}
+
+.btn-radio
+{
+    text-align: center;   
+}
+#pdf-image
+{
+    margin: 32px 30px 10px;
+    font-weight: bold;
+}
+#bold-head
+{
+    font-weight: bold;
+}
+.btn-style-wrapper
+{
+    margin-left: 50px;
+}
+.text-style
+{
+    margin-left: 50px;
+}
+#side-right
+{
+   border: solid 1px #CCC;
+    float: right;
+    width: 500px;
+    height: auto;
+    min-height: 275px;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+#side-right p
+{
+    text-align: justify;
+    font-family: Tahoma;
+}
+#sub-btn
+{
+    position: absolute;
+    bottom: 3%;
+}
