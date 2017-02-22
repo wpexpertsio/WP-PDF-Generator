@@ -47,6 +47,10 @@ copy pdf function and paste it into php file where you want.
 
 
 ## Changelog
+**1.0**
+
+- Fixed JS Issue.
+
 **0.1**
 
 - Initial release.

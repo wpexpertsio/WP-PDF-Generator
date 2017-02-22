@@ -50,7 +50,6 @@ wp_objects_pdf();
 3. Your PDF link is appeare on your web page.
 4. Your PDF Preview
 
-== Changelog ==
-
+== Changelog === 1.0 =* Fixed JS issue
 = 0.1 =
 * Initial release.
