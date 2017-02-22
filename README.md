@@ -39,13 +39,6 @@ copy pdf function and paste it into php file where you want.
 
 **wp__objects__pdf();**
 
-## Screenshots
-1. Choose your button style. You can type simple text or word intead of Image.
-2. Paste your shotcode to show PDF link.
-3. Your PDF link is appeare on your web page.
-4. Your PDF Preview
-
-
 ## Changelog
 **1.0**
 
